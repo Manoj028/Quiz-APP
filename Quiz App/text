@@ -1,0 +1,39 @@
+demo questions
+
+        question: "Which language runs in web browser?",
+        a: "java",
+        b: "c",
+        c: "Python",
+        d: "javascript",
+        correct: "d",
+
+        question:"What does CSS stand for?",
+        a: "Cars Suvs sailboards",
+        b: "Cascading style sheets",
+        c: "Cascading simple sheets",
+        d: "central style sheets",
+        correct: "b",
+
+        question: "Inside which HTML element do we put the JavaScript?",
+        a: "<script>",
+        b: "<javascript>",
+        c: "<scripting>",
+        d: "<js></js>",
+        correct: "a",   
+
+        question: "HTML stands for?",
+        a: "Hypertext Markdown Language",
+        b: "Hypertext Machine Language",
+        c: "Higher marking Loop",
+        d: "Hypertext Markup Language",
+        correct: "d",
+
+        Question: "How to write an IF statement in JavaScript?",
+        a: "if (i == 5)",
+        b: "if i = 5",
+        c: "if i == 5 then",
+        d: "if i = 5 then",
+        correct: "a",
+
+
+
